@@ -11,7 +11,8 @@ Apps Script is a javascript-based programming language that powers add-ons for G
 
 ## Samples
 
-- [Google Apps Script Samples](https://github.com/googlesamples/apps-script)
+- [Google Samples](https://github.com/googlesamples/apps-script)
+- [Templates](https://github.com/googlesamples/apps-script-templates)
 - Codelabs
   - [Gmail Add-ons](https://g.co/codelabs/gmail-add-ons)
   - [Clasp – The Apps Script CLI](https://g.co/codelabs/clasp)
