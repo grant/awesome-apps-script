@@ -16,6 +16,7 @@ Apps Script is a javascript-based programming language that powers add-ons for G
 - Codelabs
   - [Gmail Add-ons](https://g.co/codelabs/gmail-add-ons)
   - [Clasp – The Apps Script CLI](https://g.co/codelabs/clasp)
+- [Youtube](https://github.com/youtube/api-samples/tree/master/apps-script/snippets)
 
 ## Reference
 
