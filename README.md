@@ -1,4 +1,4 @@
-# Awesome Apps Script
+# Awesome Apps Script [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A collection of awesome [Apps Script](https://developers.google.com/apps-script/) tools, libraries, and samples.
 
