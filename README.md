@@ -22,3 +22,6 @@ A collection of awesome [Apps Script](https://developers.google.com/apps-script/
 - [Firebase](https://github.com/RomainVialard/FirebaseApp)
 - [Parsing HTML](https://sites.google.com/site/scriptsexamples/learn-by-example/parsing-html)
 - [Word Cloud Creator](https://sites.google.com/site/scriptsexamples/custom-methods/other-libraries/word-cloud-library)
+- Other samples
+  - [entaq's samples](https://github.com/entaq/GoogleAppsScript)
+  - [hijonathan's samples](https://github.com/hijonathan/google-scripts)
