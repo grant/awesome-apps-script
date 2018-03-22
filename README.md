@@ -25,3 +25,7 @@ A collection of awesome [Apps Script](https://developers.google.com/apps-script/
 - Other samples
   - [entaq's samples](https://github.com/entaq/GoogleAppsScript)
   - [hijonathan's samples](https://github.com/hijonathan/google-scripts)
+
+## Tools
+
+- [Apps Script IDE Color](https://github.com/JeanRemiDelteil/appsScriptColor)
