@@ -29,3 +29,4 @@ A collection of awesome [Apps Script](https://developers.google.com/apps-script/
 ## Tools
 
 - [Apps Script IDE Color](https://github.com/JeanRemiDelteil/appsScriptColor)
+- [GitHub Chrome Extension](https://github.com/leonhartX/gas-github)
