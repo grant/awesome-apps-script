@@ -15,6 +15,7 @@ A collection of awesome [Apps Script](https://developers.google.com/apps-script/
 - [OAuth2](https://github.com/googlesamples/apps-script-oauth2)
 - [GSTestRunner – Unit testing](https://github.com/bkper/GSTestRunner)
 - [Apps Script DB for Node](https://github.com/maple3142/apps-script-db)
+- [SlackApp](https://github.com/soundTricker/SlackApp)
 
 ## Samples
 
