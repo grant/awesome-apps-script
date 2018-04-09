@@ -22,6 +22,7 @@ A collection of awesome [Apps Script](https://developers.google.com/apps-script/
 - [Google Samples](https://github.com/googlesamples/apps-script)
 - [Youtube](https://github.com/youtube/api-samples/tree/master/apps-script/snippets)
 - [Firebase](https://github.com/RomainVialard/FirebaseApp)
+- [Data Studio](https://github.com/google/datastudio)
 - [Parsing HTML](https://sites.google.com/site/scriptsexamples/learn-by-example/parsing-html)
 - [Word Cloud Creator](https://sites.google.com/site/scriptsexamples/custom-methods/other-libraries/word-cloud-library)
 - Other samples
