@@ -20,6 +20,7 @@ A collection of awesome [Apps Script](https://developers.google.com/apps-script/
 ## Samples
 
 - [Google Samples](https://github.com/googlesamples/apps-script)
+- [Other Samples](https://github.com/entaq/GoogleAppsScript)
 - [Youtube](https://github.com/youtube/api-samples/tree/master/apps-script/snippets)
 - [Firebase](https://github.com/RomainVialard/FirebaseApp)
 - [Data Studio](https://github.com/google/datastudio)
