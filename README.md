@@ -31,7 +31,7 @@ A collection of awesome [Apps Script](https://developers.google.com/apps-script/
   - [entaq's samples](https://github.com/entaq/GoogleAppsScript)
   - [hijonathan's samples](https://github.com/hijonathan/google-scripts)
 
-## Tools
+## Online IDE
 
 - [Apps Script IDE Color](https://github.com/JeanRemiDelteil/appsScriptColor)
 - [GitHub Chrome Extension](https://github.com/leonhartX/gas-github)
