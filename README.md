@@ -29,6 +29,8 @@ A collection of awesome [Apps Script](https://developers.google.com/apps-script/
 - [Youtube](https://github.com/youtube/api-samples/tree/master/apps-script/snippets)
 - [Firebase](https://github.com/RomainVialard/FirebaseApp)
 - [Data Studio](https://github.com/google/datastudio)
+- [Random Scripts and Snippets by Andrew Roberts](http://www.andrewroberts.net/scripts-and-snippets/)
+- [Google Apps Script Snippets by Bruce Mcpherson](http://ramblings.mcpher.com/Home/excelquirks/gassnips)
 - [Parsing HTML](https://sites.google.com/site/scriptsexamples/learn-by-example/parsing-html)
 - [Word Cloud Creator](https://sites.google.com/site/scriptsexamples/custom-methods/other-libraries/word-cloud-library)
 - Other samples
