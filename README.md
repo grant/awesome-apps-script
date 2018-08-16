@@ -40,6 +40,7 @@ A collection of awesome [Apps Script](https://developers.google.com/apps-script/
 ## Online IDE
 
 - [Apps Script IDE Color](https://github.com/JeanRemiDelteil/appsScriptColor)
+- [IDE Sidebar Toggle](https://chrome.google.com/webstore/detail/google-apps-sidebar-toggl/ohpabiillaflohfmoelpklnloimplacc/related)
 - [GitHub Chrome Extension](https://github.com/leonhartX/gas-github)
 
 ## Blogposts
