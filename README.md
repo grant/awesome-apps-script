@@ -39,3 +39,7 @@ A collection of awesome [Apps Script](https://developers.google.com/apps-script/
 
 - [Apps Script IDE Color](https://github.com/JeanRemiDelteil/appsScriptColor)
 - [GitHub Chrome Extension](https://github.com/leonhartX/gas-github)
+
+## Blogposts
+
+- [The 6 Deadly Sins of Google Apps Script](https://www.lucidchart.com/techblog/2017/12/07/6-deadly-sins-google-apps-script-add-on/)
