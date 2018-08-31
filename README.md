@@ -4,6 +4,7 @@ A collection of awesome [Apps Script](https://developers.google.com/apps-script/
 
 ## Getting Started / Tutorials
 
+- [Intro to Apps Script](https://zapier.com/learn/google-sheets/google-apps-script-tutorial/)
 - Codelabs
   - [Gmail Add-ons](https://g.co/codelabs/gmail-add-ons)
   - [Clasp – The Apps Script CLI](https://g.co/codelabs/clasp)
