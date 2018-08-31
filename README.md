@@ -9,6 +9,7 @@ A collection of awesome [Apps Script](https://developers.google.com/apps-script/
   - [Gmail Add-ons](https://g.co/codelabs/gmail-add-ons)
   - [Clasp – The Apps Script CLI](https://g.co/codelabs/clasp)
 - [Templates](https://github.com/googlesamples/apps-script-templates)
+- [Sheets Macros](https://zapier.com/blog/google-sheets-macros/)
 
 ## Libraries
 
