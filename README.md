@@ -29,6 +29,7 @@ A collection of awesome [Apps Script](https://developers.google.com/apps-script/
 - [Google Samples](https://github.com/googlesamples/apps-script)
 - [Other Samples](https://github.com/entaq/GoogleAppsScript)
 - [Youtube](https://github.com/youtube/api-samples/tree/master/apps-script/snippets)
+- [Gmail Push notifications](https://github.com/Spencer-Easton/Apps-Script-Gmail-Push-Notifications-v2)
 - [Firebase](https://github.com/RomainVialard/FirebaseApp)
 - [Data Studio](https://github.com/google/datastudio)
 - [Random Scripts and Snippets by Andrew Roberts](http://www.andrewroberts.net/scripts-and-snippets/)
