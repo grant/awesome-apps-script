@@ -48,6 +48,10 @@ A collection of awesome [Apps Script](https://developers.google.com/apps-script/
 - [IDE Sidebar Toggle](https://chrome.google.com/webstore/detail/google-apps-sidebar-toggl/ohpabiillaflohfmoelpklnloimplacc/related)
 - [GitHub Chrome Extension](https://github.com/leonhartX/gas-github)
 
+## Other Lists
+
+- [tanaikech's list](https://github.com/tanaikech/taking-advantage-of-google-apps-script)
+
 ## Blogposts
 
 - [The 6 Deadly Sins of Google Apps Script](https://www.lucidchart.com/techblog/2017/12/07/6-deadly-sins-google-apps-script-add-on/)
