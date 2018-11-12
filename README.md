@@ -55,3 +55,8 @@ A collection of awesome [Apps Script](https://developers.google.com/apps-script/
 ## Blogposts
 
 - [The 6 Deadly Sins of Google Apps Script](https://www.lucidchart.com/techblog/2017/12/07/6-deadly-sins-google-apps-script-add-on/)
+- [Sheets Raycaster](https://gsuite-developers.googleblog.com/2012/03/sheetcaster-3d-in-apps-script.html)
+- [City Traffic Analysis](https://www.kutil.org/2016/02/analyse-city-traffic-from-webcams.html)
+- [Spreadsheet Art](https://www.labnol.org/software/turn-images-into-pixel-art/12978/)
+- [Slides + Snow](https://mashe.hawksey.info/2017/12/adding-snow-to-google-slides-with-the-help-of-google-apps-script/)
+- [Getting the most](https://www.slideshare.net/wescpy/getting-started-with-google-apps-script)
