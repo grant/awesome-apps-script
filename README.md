@@ -10,6 +10,7 @@ A collection of awesome [Apps Script](https://developers.google.com/apps-script/
   - [Clasp – The Apps Script CLI](https://g.co/codelabs/clasp)
 - [Templates](https://github.com/googlesamples/apps-script-templates)
 - [Sheets Macros](https://zapier.com/blog/google-sheets-macros/)
+- [Labnol's Learning Resources](https://gist.github.com/labnol/0b67f812a827fd9babc5)
 
 ## Libraries
 
