@@ -19,7 +19,7 @@ A collection of awesome [Apps Script](https://developers.google.com/apps-script/
 - [Apps Script DB for Node](https://github.com/maple3142/apps-script-db)
 - [SlackApp](https://github.com/soundTricker/SlackApp)
 - [Slack API interface](https://github.com/yhay81/GASlacker)
-
+- [CiteMe](https://citeme.app) - Google Docs Add-on for searching 11+ academic databases and formatting citations in 40+ styles.
 ## Testing
 
 - [Blog: Automated Tests for Google Apps Script](http://engineering.continuity.net/test-for-google-apps-script/)
