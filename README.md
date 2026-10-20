@@ -28,6 +28,7 @@ A collection of awesome [Apps Script](https://developers.google.com/apps-script/
 ## Samples
 
 - [100-Stop Google Maps Route Links](https://github.com/b4thefomo/google-maps-100-stops) – research + `GMAPS_ROUTE_URL` custom function building one Maps URL for up to 100 stops
+- [Free Google Sheets Scripts](https://github.com/DecodedXR/free-google-sheets-scripts) – MIT-licensed single-file tools: mail merge, Doc/PDF merge, Sheets → Calendar, dependent dropdowns, count/sum by color, Drive and Gmail CSV import, public Drive upload page
 - [Google Samples](https://github.com/googlesamples/apps-script)
 - [Other Samples](https://github.com/entaq/GoogleAppsScript)
 - [Youtube](https://github.com/youtube/api-samples/tree/master/apps-script/snippets)
